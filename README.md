@@ -28,5 +28,5 @@ Pozostałe loginy - 7000
 # Uwagi
 BroIT jest w fazie alpha(większość rzeczy może być zbugowana).
 # Uznania
-workonfire aka Buty935 - pomoc
-JustRex aka reksio2947LOL - tqórca BroIT i pomysły na produkty
+workonfire aka Buty935 - pomoc\n
+JustRex aka reksio2947LOL - twórca BroIT i pomysły na produkty
