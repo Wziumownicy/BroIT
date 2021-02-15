@@ -7,13 +7,7 @@ BroIT to sklep internetowy na którym kupisz wziuma!
 
 # Instalacja
 
-Arch Linux
-
-```
-git clone https://github.com/Wziumownicy/BroIT.git
-cd BroIT && makepkg -si
-```
-Pozostałe dystrybucje
+Wszystkie dystrybucje
 
 ```
 git clone https://github.com/Wziumownicy/BroIT.git
